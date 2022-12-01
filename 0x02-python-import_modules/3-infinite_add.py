@@ -4,5 +4,5 @@ if __name__ == "__main__":
     num_args = len(argv)
     total = 0
     for i in range(1, num_args):
-        total += int9argv[i])
+        total += int(argv[i])
     print("{:d}".format(total))
