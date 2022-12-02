@@ -12,3 +12,4 @@ Program 11 a function that finds all multiples of 2 in a list.
 Program 12 is a function that deletes the item at a specific position in a list.
 Program 13 Complete the source code in order to switch value of a and b
 Program 14 is a function in C that checks if a singly linked list is a palindrome.
+Program 15 is a C function that prints some basic info about Python lists.
