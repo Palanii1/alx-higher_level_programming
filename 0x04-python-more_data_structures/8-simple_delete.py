@@ -1,5 +1,5 @@
 #!/usr/bin/pyhton3
-def simple-delete9a_dictionary, key=""):
+def simple_delete(a_dictionary, key=""):
     try:
         del a_dictionary[key]
         return (a_dictionary)

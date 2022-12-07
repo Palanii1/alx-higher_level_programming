@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-def square_matrix-simple(matrix=[]):
+def square_matrix_simple(matrix=[]):
     Newsquare = []
     i = 0
     for x in matrix:
