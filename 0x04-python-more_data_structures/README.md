@@ -10,4 +10,7 @@ Program 9 is  a function that deletes a key in a dictionary.
 Program 10 is a function that returns a new dictionary with all values multiplied by 2
 Program 11 is a function that returns a key with the biggest integer value.
 Program 12 is a function that returns a list with all values multiplied by a number without using any loops.
-Program 13 is a function def roman_to_int(roman_string): that converts a Roman numeral to an integer.
+Program 13 is a function def roman_to_int(roman_string): that converts a Roman numeral to an integer
+Program 14 is  a function that returns the weighted average of all integers tuple (<score>, <weight>)
+Program 15 ias a function that computes the square value of all integers of a matrix using map
+Program 16 is a function that deletes keys with a specific value in a dictionary.
