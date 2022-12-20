@@ -1,5 +1,8 @@
 #!/usr/bin/python3
-"""a class Square that defines a square by private instance attribute size with a given init method"""
+"""Square module.
+This module is a class Square that defines a square by private instance attribute size with a given init method
+"""
+
 
 class Square():
     """defined square"""
@@ -10,7 +13,8 @@ class Square():
             size: the size of the square
         Raises:
             TypeError: if size is not integer
-            ValueError: if size < 0 """
+            ValueError: if size < 0
+        """
 
         if type(size) is int:
             if size >= 0:

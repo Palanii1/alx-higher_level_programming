@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-"""a class Square that defines a square by private instace attribute size with a given method.There is also a public instance method Area that returns the current square area"""
+"""Square module.
+This module is a class Square that defines a square by private instace attribute size with a given method.There is also a public instance method Area that returns the current square area
+"""
 
 class Square():
     """defined square"""

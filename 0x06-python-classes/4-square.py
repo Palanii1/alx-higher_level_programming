@@ -1,5 +1,8 @@
 #!/usr/bin/python3
-"""a class Square tha defines a square by a private instance attribute size and a publice instamce attribute area"""
+"""Square module.
+This moadule is a class Square tha defines a square by a private instance attribute size and a publice instamce attribute area
+"""
+
 
 class Square():
     """defined square"""

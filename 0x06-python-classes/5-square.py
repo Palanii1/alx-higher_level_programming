@@ -1,5 +1,7 @@
 #!/usr/bin/python3
-"""a class Square that defines a square by a private instnacxe attribute size, a public instnace method area and a public instnace method my_print that prints in the stdout the square with character #"""
+"""Square Module.
+This module is a class Square that defines a square by a private instnacxe attribute size, a public instnace method area and a public instnace method my_print that prints in the stdout the square with character #
+"""
 
 class Square():
     """defined square"""
